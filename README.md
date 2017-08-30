@@ -13,6 +13,13 @@ Just download the css and add it!
 ```
 How to use it.
 ```
-<button class="flash black">
+<button class="flash">
 ```
-This will make a black/white button.
+This will make a simple button.
+
+Using animations.
+
+```
+<button class="flash slide slide-right">
+```
+Makes a simple button that slides.
