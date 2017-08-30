@@ -1,0 +1,49 @@
+.flash {
+  padding: 8px 16px;
+  border: none;
+  margin: 5px;
+}
+.flash:hover {
+  cursor: pointer;
+}
+/*Slide*/
+.slide {
+  box-shadow: inset 0 0 0 0 #31302B;
+  -webkit-transition: all ease 0.8s;
+  -moz-transition: all ease 0.8s;
+  transition: all ease 0.8s;
+}
+.slide-right:hover {
+  box-shadow: inset 100px 0px 0px 5px #31302B;
+  color: #FFF;
+  border: none;
+}
+.slide-left:hover {
+  box-shadow: inset -100px 0px 0px 5px #31302B;
+  color: #FFF;
+  border: none;
+}
+.slide-down:hover {
+  box-shadow: inset 0px 100px 0px 0px #31302B;
+  color: #FFF;
+  border: none;
+}
+.slide-up:hover {
+  box-shadow: inset 0px -100px 0px 0px #31302B;
+  color: #FFF;
+  border: none;
+}
+/*Fade*/
+.fade {
+  transition-duration: 0.8s;
+}
+.fade:hover {
+  transition-duration: 0.8s;
+  color: #FFF;
+  background-color: #31302B;
+  border: none;
+}
+/*Glow*/
+.glow {
+  box-shadow: inset 0 0 0 0 #31302B;
+}
