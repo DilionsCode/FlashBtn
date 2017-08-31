@@ -1,5 +1,5 @@
 # FlashBtn
-<a href="http://dilionsmith.me/flashbuttons">Documentation</a>
+<a target="_blank" href="http://dilionsmith.me/flashbuttons">Documentation</a><br>
 Perks of Flash:
 
  * Easily add new buttons
