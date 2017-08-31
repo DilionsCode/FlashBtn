@@ -1,5 +1,5 @@
 # FlashBtn
-
+<a href="http://dilionsmith.me/flashbuttons">Documentation</a>
 Perks of Flash:
 
  * Easily add new buttons
