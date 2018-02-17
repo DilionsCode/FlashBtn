@@ -1,49 +1,35 @@
 .flash {
-  padding: 8px 16px;
+  transition-duration: 1s;
+  padding: 10px 20px;
+  background-color: #000;
+  color: #FFF;
   border: none;
-  margin: 5px;
 }
 .flash:hover {
-  cursor: pointer;
+  transition-duration: 1s;
 }
-/*Slide*/
-.slide {
-  box-shadow: inset 0 0 0 0 #31302B;
-  -webkit-transition: all ease 0.8s;
-  -moz-transition: all ease 0.8s;
-  transition: all ease 0.8s;
+.hover:hover {
+  background-color: #ffff00;
+  color: #000;
 }
-.slide-right:hover {
-  box-shadow: inset 100px 0px 0px 5px #31302B;
-  color: #FFF;
+/*Slides*/
+.slide-left:hover {
+  box-shadow: inset -115px 0px 0px 0px #ffff00;
+  color: #000;
   border: none;
 }
-.slide-left:hover {
-  box-shadow: inset -100px 0px 0px 5px #31302B;
-  color: #FFF;
+.slide-right:hover {
+  box-shadow: inset 115px 0px 0px 0px #ffff00;
+  color: #000;
   border: none;
 }
 .slide-down:hover {
-  box-shadow: inset 0px 100px 0px 0px #31302B;
-  color: #FFF;
+  box-shadow: inset 0px 40px 0px 0px #ffff00;
+  color: #000;
   border: none;
 }
 .slide-up:hover {
-  box-shadow: inset 0px -100px 0px 0px #31302B;
-  color: #FFF;
+  box-shadow: inset 0px -40px 0px 0px #ffff00;
+  color: #000;
   border: none;
-}
-/*Fade*/
-.fade {
-  transition-duration: 0.8s;
-}
-.fade:hover {
-  transition-duration: 0.8s;
-  color: #FFF;
-  background-color: #31302B;
-  border: none;
-}
-/*Glow*/
-.glow {
-  box-shadow: inset 0 0 0 0 #31302B;
 }
