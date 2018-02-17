@@ -1,25 +1,25 @@
-# FlashBtn
-<a target="_blank" href="http://dilionsmith.me/flashbuttons">Documentation</a><br>
-Perks of Flash:
+# FlashBTN
 
- * Easily add new buttons
- * Save time
- * Unique and easy design
+## How to use it?
 
-How to get started! <br>
-Just download the css and add it!
+
+<p>Add the CSS file.</p>
+
 ```
 <link rel="stylesheet" href="flash.css">
 ```
-How to use it.
-```
-<button class="flash">
-```
-This will make a simple button.
 
-Using animations.
+<p>How to use it.</p>
 
 ```
-<button class="flash slide slide-right">
+<button class="flash hover">
 ```
-Makes a simple button that slides.
+<p>Animations.</p>
+
+```
+hover
+slide-left
+slide-right
+slide-down
+slide-up
+```
