@@ -23,3 +23,7 @@ slide-right
 slide-down
 slide-up
 ```
+
+## Download the repository and use the demo!
+
+### Just open the demo.html file in browser!
