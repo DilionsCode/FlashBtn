@@ -1,24 +1,24 @@
 # FlashBTN
 
 
-<img src="https://i.imgur.com/VpJEyY5.gif">
+### [Check out the demo!!](https://dilionscode.github.io/FlashBtn/)
 
 
 ## How to use it?
 
 
-<p>Add the CSS file.</p>
+Add the CSS file.
 
 ```
 <link rel="stylesheet" href="flash.css">
 ```
 
-<p>How to use it.</p>
+Add the class!
 
 ```
 <button class="flash hover">
 ```
-<p>Animations.</p>
+List of animations
 
 ```
 hover
@@ -28,6 +28,7 @@ slide-down
 slide-up
 ```
 
-## Download the repository and use the demo!
-
-### Just open the demo.html file in browser!
+Clone the code!
+```
+git clone https://github.com/DilionsCode/FlashBtn.git
+```
